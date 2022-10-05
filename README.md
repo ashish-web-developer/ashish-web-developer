@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ashish Prajapati</h1>
-<h3 align="center">Enthusiastic and hard working web developer looking for a job as a web developer, Where I can apply my attention to detail and knowledge I learn myself.</h3>
+<h3 align="center">Enthusiastic and hard working web developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashish-web-developer&label=Profile%20views&color=0e75b6&style=flat" alt="ashish-web-developer" /> </p>
 
