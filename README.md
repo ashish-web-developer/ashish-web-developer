@@ -26,7 +26,7 @@
     </td>
     <td align="center">
       <a href="assets/MOBILE THUMBNAIL.png2">
-        <img src="assets/assets/mobile-fortune-realm-thumbnail.png" width="250px"/><br/>
+        <img src="assets/mobile-fortune-realm-thumbnail.png" width="250px"/><br/>
         <strong>Project Two</strong>
       </a>
       <p>Short description</p>
