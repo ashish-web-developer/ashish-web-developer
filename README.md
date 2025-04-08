@@ -15,7 +15,31 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) 
 
 # Projects Demo
-[![Watch the demo](https://images.pexels.com/photos/31459238/pexels-photo-31459238/free-photo-of-serene-park-scene-with-golden-autumn-foliage.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+<table>
+  <tr>
+    <td align="center">
+      <a href="assets/MOBILE THUMBNAIL.png">
+        <img src="assets/project1-thumb.png" width="150px"/><br/>
+        <strong>Project One</strong>
+      </a>
+      <p>Short description</p>
+    </td>
+    <td align="center">
+      <a href="assets/MOBILE THUMBNAIL.png2">
+        <img src="assets/project2-thumb.png" width="150px"/><br/>
+        <strong>Project Two</strong>
+      </a>
+      <p>Short description</p>
+    </td>
+    <td align="center">
+      <a href="assets/MOBILE THUMBNAIL.png">
+        <img src="assets/project3-thumb.png" width="150px"/><br/>
+        <strong>Project Three</strong>
+      </a>
+      <p>Short description</p>
+    </td>
+  </tr>
+</table>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ashish-web-developer&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
