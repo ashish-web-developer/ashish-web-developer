@@ -1,5 +1,11 @@
 # 💫 About Me:
-I’m a software developer with 1.5 years of experience at MIM-Essay, specializing in JavaScript and React.js with Redux for state management. While my expertise lies in front-end development, I have also worked with Laravel, gaining foundational back-end knowledge.<br><br>At MIM-Essay, I contributed to multiple projects, including Mentor-Me, Sales CRM, Analytics CRM, Digital Strategos, and Focus 5. On the personal side, I’ve been developing Fortune Realm for the past 1.5 years, along with another project, Ultimate Portfolio.<br><br>I’m always eager to learn new technologies, optimize user experiences, and build scalable web applications. Let’s connect and collaborate! 🚀
+👋 Hi, I'm Ashish Prajapati
+* 💻 Software Developer with 1.5 years of experience
+* ⚛️ Strong expertise in JavaScript, React.js, and Redux
+* 🎯 Focused on front-end development with solid UI/UX understanding
+* 🌐 Hands-on experience with back-end development from past company work and recent full-stack projects
+* 🚀 Passionate about building clean, scalable, and efficient applications
+* 🧠 Always eager to learn and explore new technologies
 
 
 ## 🌐 Socials:
