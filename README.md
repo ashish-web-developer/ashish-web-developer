@@ -25,11 +25,13 @@
       <p>Short description</p>
     </td>
     <td align="center">
-      <a href="assets/MOBILE THUMBNAIL.png2">
+      <a href="https://vimeo.com/1072794834/2b79c4aee9?ts=0&share=copy">
         <img src="assets/mobile-fortune-realm-thumbnail.png" width="250px"/><br/>
-        <strong>Project Two</strong>
+        <strong>Fortune Realm Login Screen – A Spooky Welcome! (Mobile)</strong>
       </a>
-      <p>Short description</p>
+      <p>Step into Fortune Realm with a Halloween-themed login page! A floating Jack-o’-lantern and a haunted car set the spooky vibe, while a game preview section teases the exciting card games ahead.
+
+A thrilling welcome to the world of Fortune Realm!</p>
     </td>
   </tr>
 </table>
