@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Ashish Prajapati
+## 👋 Hi, I'm Ashish Prajapati
 * 💻 Software Developer with 1.5 years of experience
 * ⚛️ Strong expertise in JavaScript, React.js, and Redux
 * 🎯 Focused on front-end development with solid UI/UX understanding
