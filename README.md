@@ -19,22 +19,15 @@
   <tr>
     <td align="center">
       <a href="assets/MOBILE THUMBNAIL.png">
-        <img src="assets/MOBILE THUMBNAIL.png" width="150px"/><br/>
+        <img src="assets/fortune-realm-thumbnail.png" width="250px"/><br/>
         <strong>Project One</strong>
       </a>
       <p>Short description</p>
     </td>
     <td align="center">
       <a href="assets/MOBILE THUMBNAIL.png2">
-        <img src="assets/MOBILE THUMBNAIL.png" width="150px"/><br/>
+        <img src="assets/assets/mobile-fortune-realm-thumbnail.png" width="250px"/><br/>
         <strong>Project Two</strong>
-      </a>
-      <p>Short description</p>
-    </td>
-    <td align="center">
-      <a href="assets/MOBILE THUMBNAIL.png">
-        <img src="assets/MOBILE THUMBNAIL.png" width="150px"/><br/>
-        <strong>Project Three</strong>
       </a>
       <p>Short description</p>
     </td>
