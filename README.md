@@ -37,6 +37,19 @@ A thrilling welcome to the world of Fortune Realm!</p>
 A thrilling welcome to the world of Fortune Realm!</p>
     </td>
   </tr>
+  <tr>
+    <td align="center">
+      <a href="https://vimeo.com/1078178899/3dcb4b3573">
+        <img src="assets/chat.png" width="250px"/><br/>
+        <strong>💬 Advanced Chat System</strong>
+      </a>
+      <p>The Fortune Realm chat page is designed for seamless player interaction, featuring Group & one-on-one live chat, Real-time user status updates, Dark & light theme customization
+
+, Group search & join requests for easy connections, Game invitations to invite others for a match
+
+</p>
+    </td>
+  </tr>
 </table>
 
 # 📊 GitHub Stats:
