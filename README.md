@@ -63,7 +63,15 @@ A thrilling welcome to the world of Fortune Realm!</p>
   </tr>
   <tr>
     <td align="center">
-      Ashish
+       <a href="https://vimeo.com/1080225707/1c3a7259af">
+        <img src="assets/mobile-chat.png" width="250px"/><br/>
+        <strong>💬 Advanced Chat System (Mobile)</strong>
+      </a>
+      <p>The Fortune Realm chat page is designed for seamless player interaction, featuring Group & one-on-one live chat, Real-time user status updates, Dark & light theme customization
+
+, Group search & join requests for easy connections, Game invitations to invite others for a match
+
+</p>
     </td>
     <td align="center">
       Ashish
