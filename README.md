@@ -67,7 +67,7 @@ A thrilling welcome to the world of Fortune Realm!</p>
         <img src="assets/poker.jpg" width="250px"/><br/>
         <strong>🎮 Texas Hold’em Showdown – Fortune Realm’s Ultimate Poker Experience</strong>
       </a>
-      <p>Texas Hold’em Showdown is an immersive, real-time multiplayer poker experience within the Fortune Realm platform. Players can buy in with their preferred chip amount, get seated automatically, and enjoy smooth dealer animations as hole cards are dealt. The game features intuitive poker actions like check, call, fold, and raise, all within a timed turn system to keep gameplay flowing. With a clean UI, it delivers a competitive yet visually engaging poker session for all players.</p>
+      <p></p>
     </td>
     <td align="center">
       Coming Soon!
