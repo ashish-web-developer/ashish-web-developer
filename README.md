@@ -67,7 +67,9 @@ A thrilling welcome to the world of Fortune Realm!</p>
         <img src="assets/poker.jpg" width="250px"/><br/>
         <strong>🎮 Texas Hold’em Showdown – Fortune Realm’s Ultimate Poker Experience</strong>
       </a>
-      <p></p>
+      <p>
+        Texas Hold’em Showdown is a fast-paced, multiplayer poker game on Fortune Realm. Players buy in, get auto-seated, and play with real-time dealer animations and timed actions like check, call, fold, and raise—all wrapped in a sleek.
+      </p>
     </td>
     <td align="center">
       Coming Soon!
